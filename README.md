@@ -12,7 +12,7 @@ Actually I'm improving my programming skills in all levels of Full Stack Develop
 
 Here are listed all the technologies that I have managed along the years, splitted into the different skills or develop groups:
 
-### Languages/Frameworks I'm good at:
+## Languages/Frameworks I'm good at:
 
 <a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
 <a href="https://nodejs.org/en/"><img alt="Node.js" title="Node.js" src="https://github.com/cheesits456/cheesits456/raw/master/icons/node.png" height="42"></a>
@@ -46,3 +46,12 @@ Here are listed all the technologies that I have managed along the years, splitt
 <a href="https://trello.com/"><img alt="Trello" title="Trello" src="https://github.com/danielchatfield/trello-desktop/blob/master/static/Icon.png" height="42"></a>
 <a href="https://code.visualstudio.com/"><img alt="VCode" title="VCode" src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" height="42"></a>
 <a href="https://unity.com/"><img alt="Unity" title="Unity" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" height="42"></a>
+
+## Social media
+
+<div align="center">
+<a href="https://www.linkedin.com/in/carlos-ibañez-lamas-74487b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://gitlab.com/CariblaGTI" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+<a href="https://github.com/CariblaGTI" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.codewars.com/users/CariblaGIT" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
+</div>
