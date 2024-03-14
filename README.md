@@ -6,11 +6,13 @@ Welcome all of you to my Github. I'm Carlos and here you will find all about mys
 
 Actually I'm improving my programming skills in all levels of Full Stack Developer, with the company of GeeksHubs, but I'm open to explore Junior programming jobs related with FullStack, videogames develop or IA and Big Data places. Can be remotely or in my country (Spain), but I'm open to any interesting offer.
 
-📌 Valencia 🇪🇸
-
 ## Technologies
 
 Here are listed all the technologies that I have managed along the years, splitted into the different skills or develop groups:
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cariblagit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="138" alt="languages graph"  />
+</div>
 
 ## Languages/Frameworks I'm good at:
 
